@@ -4,6 +4,7 @@ Networking project - Man in the middle attack
 first create a job by running getsha.py 
 
 from pc1 run master 
+
     - syntax : `python3 master.py [local ip addr] [port] [sha1 code]`
     - eg     : `python3 master.py 192.168.0.103 9987 e5acb1a96e34cd7f263aada0b69aa58bdd722a03`
 
